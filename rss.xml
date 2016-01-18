@@ -2,15 +2,15 @@
     <channel>
         <title><![CDATA[alsdkgjasd]]></title>
         <description><![CDATA[alsdkgjasd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/alsdkgjasd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 21:54:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jan 2016 21:55:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alsdkgjasd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined597f6e49-7442-4e01-95b6-2bee4d300812/index.html</link>
+            <link>https://thegrid.ai/alsdkgjasd/597f6e49-7442-4e01-95b6-2bee4d300812/index.html</link>
             <guid isPermaLink="false">597f6e49-7442-4e01-95b6-2bee4d300812</guid>
-            <pubDate>Sun, 17 Jan 2016 21:54:51 GMT</pubDate>
+            <pubDate>Sun, 17 Jan 2016 21:55:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
